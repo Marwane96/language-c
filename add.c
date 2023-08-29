@@ -17,7 +17,7 @@ int add(int a, int b)
 /**
  * main - test function (entre point)
  * 
- * Return: 0 if scc
+ * Return: 0 if sc
  */
 int main(void)
 {
